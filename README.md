@@ -12,4 +12,6 @@ This project includes a collection of data relating to the titanic event.
 -   The distribution of age of passenger
 -   Comparison on the survival rate between male and female
 
+\-\--
+
 Thank you for checking out my first individual Git project! 😄
