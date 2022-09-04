@@ -1,6 +1,7 @@
 # TITANIC
 
 This project includes a collection of data relating to the titanic event.
+
 ![alt text](titanic_plot.jpg)
 
 ## Data set includes :
@@ -14,6 +15,5 @@ This project includes a collection of data relating to the titanic event.
 -   Comparison on the survival rate between male and female
 
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
-
+----------------------------------------------------------------------------------
 
