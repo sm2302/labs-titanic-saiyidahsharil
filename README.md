@@ -1,6 +1,7 @@
 # TITANIC
 
 This project includes a collection of data relating to the titanic event.
+![alt text](titanic_plot.jpg)
 
 ## Data set includes :
 
@@ -12,9 +13,7 @@ This project includes a collection of data relating to the titanic event.
 -   The distribution of age of passenger
 -   Comparison on the survival rate between male and female
 
-### Predicted probability of survival of male passengers class and age :
-![alt text](titanic_plot.jpg)
 
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
-Thank you for checking out my first individual Git project! 😄
+
